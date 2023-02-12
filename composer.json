@@ -1,0 +1,19 @@
+{
+    "name": "puleeno/rake-phpwebdriver-request",
+    "description": "Use webdriver as Request library for Rake framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Puleeno\\RakePhpwebdriverRequest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
