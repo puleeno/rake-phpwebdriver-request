@@ -16,6 +16,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php-webdriver/webdriver": "^1.10.0"
+        "php-webdriver/webdriver": "^1.10.0",
+        "psr/http-client": "^1.0"
+    },
+    "provide": {
+        "psr/http-client-implementation": "1.0"
     }
 }
