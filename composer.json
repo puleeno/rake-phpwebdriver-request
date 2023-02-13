@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php-webdriver/webdriver": "^1.10.0"
+    }
 }
